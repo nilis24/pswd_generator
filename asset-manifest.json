@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/pswd_generator/static/css/main.76031048.css",
-    "main.js": "/pswd_generator/static/js/main.47ac95e7.js",
+    "main.js": "/pswd_generator/static/js/main.af8e4f8b.js",
     "index.html": "/pswd_generator/index.html",
     "main.76031048.css.map": "/pswd_generator/static/css/main.76031048.css.map",
-    "main.47ac95e7.js.map": "/pswd_generator/static/js/main.47ac95e7.js.map"
+    "main.af8e4f8b.js.map": "/pswd_generator/static/js/main.af8e4f8b.js.map"
   },
   "entrypoints": [
     "static/css/main.76031048.css",
-    "static/js/main.47ac95e7.js"
+    "static/js/main.af8e4f8b.js"
   ]
 }
